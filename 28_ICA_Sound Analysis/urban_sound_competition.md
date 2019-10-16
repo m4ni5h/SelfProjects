@@ -15,3 +15,7 @@ http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.
 https://openl3.readthedocs.io/en/latest/tutorial.html
 https://pypi.org/project/openl3/
 http://www.justinsalamon.com/news/openl3-competitive-open-deep-audio-embedding
+
+Meera's Input
+https://arxiv.org/pdf/1610.00087.pdf
+https://medium.com/in-pursuit-of-artificial-intelligence/deep-learning-using-raw-audio-files-66d5e7bf4cca
