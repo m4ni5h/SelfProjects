@@ -83,6 +83,7 @@ def create_datasets(sample_dir):
 
 
 def main():
+    # Should be run on UNIX based system, as the file type such
     data_dict = create_datasets("D:\Data\MNIST")
     parameters = {
         'learning_rate': 0.1,
