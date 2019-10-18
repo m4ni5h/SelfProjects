@@ -6,7 +6,7 @@ import numpy as np
 
 # Trying to benchmark the XGBoost speed issue on MNIST dataset
 # https://datascience.stackexchange.com/questions/61181/xgboost-speed-issues
-# Read MNIST files
+# https://github.com/dmlc/xgboost/tree/master/tests/benchmark
 def read_images(images_name):
     f = open(images_name, "rb")
     ds_images = []
